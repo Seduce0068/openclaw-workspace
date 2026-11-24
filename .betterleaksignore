@@ -1,0 +1,2 @@
+# False positives verified 2026-11-24: documentation/test placeholders
+# (postgres://user:pass@host, admin:I51A-do-not-log@..., etc.)
