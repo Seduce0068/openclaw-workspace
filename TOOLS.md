@@ -23,7 +23,7 @@ Things like:
 
 ### SSH
 
-- home-server → <private-ip>, user: admin
+- home-server → 192.0.2.10 (RFC 5737 example), user: example-user
 
 ### TTS
 
